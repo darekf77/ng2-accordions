@@ -30,4 +30,6 @@ use it in html ... you can do it int 2 ways :
     	body2
       </ecrm-accordion-group>
 
+    <ecrm-accordion>
+
 

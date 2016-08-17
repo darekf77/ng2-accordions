@@ -1,29 +1,33 @@
-## bs3-breakpoint ##
+## Accordions for Angular2 appps ##
 
-
-Detect breakpoint in bootstrap 3 :
-
-How to use it
--------------
+Super nice accordions wih animation for angual2 apps based on bootstrap3.
 
 **import it**
 
-    import {  Bs3BreakPoint, Bs3Breakpoint } from "bs3-breakpoint/bs3-breakpoint";
+    import { AccordionCmp, AccordionGroupCmp } from "ng2-accordions/ng2-accordions"
 
-**include it**
+
+include it
 
     ...
-    directives: [Bs3BreakpointsComponent]
-    ...
+    directives: [ AccordionCmp, AccordionGroupCmp]
+    ....
 
-function in class component
+use it in html ... you can do it int 2 ways :
 
-    newBreakpoint(e: Bs3BreakPoint) {
-          // breakpoint detected
-    }
-
-in html:
-
-    <bs3-breakpoints (changed)="newBreakpoint($event)" ></bs3-breakpoints>
+    <ecrm-accordion>
+      
+      <ecrm-accordion-group heading="Title" [isExpanded]="e['other_informations']">
+      	body 1
+      </ecrm-accordion-group>
+      
+      <ecrm-accordion-group 
+      [isExpanded]="e[accordion.name] 
+      (arrowClick)="e[accordion.name]=$event">
+	        <nav head>`enter code here`
+    		 <h1> My own awesome header </h1>
+	      </nav>  
+    	body2
+      </ecrm-accordion-group>
 
 

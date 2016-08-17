@@ -1,0 +1,26 @@
+{
+  "name": "ng2-accordions",
+  "version": "0.0.1",
+  "description": "Accordions component with animations for Angular 2 app (bootstrap3)",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darekf77/ng2-accordions.git"
+  },
+  "keywords": [
+    "angular2",
+    "accordion",
+    "accordions",
+    "animated",
+    "bootstrap"
+  ],
+  "author": "Dariusz Filipiak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darekf77/ng2-accordions/issues"
+  },
+  "homepage": "https://github.com/darekf77/ng2-accordions#readme"
+}

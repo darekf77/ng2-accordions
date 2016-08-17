@@ -1,6 +1,6 @@
 {
   "name": "ng2-accordions",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Accordions component with animations for Angular 2 app (bootstrap3)",
   "main": "index.js",
   "scripts": {

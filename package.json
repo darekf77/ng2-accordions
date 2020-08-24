@@ -1,4 +1,22 @@
 {
+  "tnp": {
+    "resources": [],
+    "overrided": {
+      "linkedFolders": [],
+      "ignoreDepsPattern": [
+        "*"
+      ],
+      "includeAsDev": [],
+      "includeOnly": [],
+      "dependencies": {}
+    },
+    "linkedProjects": [],
+    "libReleaseOptions": {
+      "nodts": false,
+      "obscure": false,
+      "ugly": false
+    }
+  },
   "name": "ng2-accordions",
   "version": "0.0.8",
   "description": "Accordions component with animations for Angular 2 app (bootstrap3)",
@@ -22,5 +40,7 @@
   "bugs": {
     "url": "https://github.com/darekf77/ng2-accordions/issues"
   },
-  "homepage": "https://github.com/darekf77/ng2-accordions#readme"
+  "homepage": "https://github.com/darekf77/ng2-accordions#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }

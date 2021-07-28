@@ -32,5 +32,5 @@
     "animated",
     "bootstrap"
   ],
-  "private": true
+  "private": false
 }

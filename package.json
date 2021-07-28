@@ -33,10 +33,10 @@
       "animated",
       "bootstrap"
     ],
-    "private": true
+    "private": false
   },
   "name": "ng2-accordions",
-  "version": "0.0.9",
+  "version": "1.0.10",
   "description": "Accordions component with animations for Angular 2 app (bootstrap3)",
   "main": "index.js",
   "scripts": {
@@ -295,6 +295,6 @@
     "zone.js": "0.10.2"
   },
   "devDependencies": {},
-  "private": true,
+  "private": false,
   "lastBuildTagHash": "69f3d3309f0208395cb91400b19f19cebb0aa7b3"
 }

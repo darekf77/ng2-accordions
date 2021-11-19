@@ -33,7 +33,8 @@
       "animated",
       "bootstrap"
     ],
-    "private": false
+    "private": false,
+    "workerPlugins": {}
   },
   "name": "ng2-accordions",
   "version": "1.0.21",

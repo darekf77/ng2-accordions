@@ -32,5 +32,6 @@
     "animated",
     "bootstrap"
   ],
-  "private": false
+  "private": false,
+  "workerPlugins": {}
 }

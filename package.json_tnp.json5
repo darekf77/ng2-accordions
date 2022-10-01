@@ -1,7 +1,5 @@
 {
   "resources": [],
-  "version": "v2",
-  "type": "angular-lib",
   "overrided": {
     "linkedFolders": [],
     "ignoreDepsPattern": [
@@ -17,6 +15,8 @@
     "obscure": false,
     "ugly": false
   },
+  "version": "v3",
+  "type": "isomorphic-lib",
   "scripts": {
     "test": "karma test"
   },
@@ -32,6 +32,6 @@
     "animated",
     "bootstrap"
   ],
-  "private": false,
+  "private": true,
   "workerPlugins": {}
 }

@@ -1,5 +1,9 @@
 {
   "files.exclude": {
+    "tsconfig.backend.dist.json": true,
+    "tsconfig.backend.bundle.json": true,
+    "tsconfig.backend.dist.json.filetemplate": true,
+    "tsconfig.backend.bundle.json.filetemplate": true,
     "tsconfig.browser.json.filetemplate": true,
     "tsconfig.isomorphic.json.filetemplate": true,
     "node_modules": true,
@@ -8,6 +12,8 @@
     "bundle*": true,
     "browser": true,
     "browser*": true,
+    "websql": true,
+    "websql*": true,
     "module*": true,
     "backup": true,
     "module": true,

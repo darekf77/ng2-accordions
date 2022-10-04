@@ -1,5 +1,6 @@
 {
   "resources": [],
+
   "overrided": {
     "linkedFolders": [],
     "ignoreDepsPattern": [
@@ -9,22 +10,29 @@
     "includeOnly": [],
     "dependencies": {}
   },
+
   "linkedProjects": [],
+  'linkedRepos': [],
+
   "libReleaseOptions": {
     "nodts": false,
     "obscure": false,
     "ugly": false
   },
+
   "version": "v3",
   "type": "isomorphic-lib",
+
   "scripts": {
     "test": "karma test"
   },
+
   "description": "Accordions component with animations for Angular 2 app (bootstrap3)",
   "license": "MIT",
   "author": "Dariusz Filipiak",
   "homepage": "https://github.com/darekf77/ng2-accordions#readme",
   "main": "index.js",
+
   "keywords": [
     "angular2",
     "accordion",
@@ -32,6 +40,7 @@
     "animated",
     "bootstrap"
   ],
+
   "private": true,
-  "workerPlugins": {}
+  "workerPlugins": {},
 }

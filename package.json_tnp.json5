@@ -20,8 +20,8 @@
     "ugly": false
   },
 
-  "version": "v3",
   "type": "isomorphic-lib",
+  "version": "v3",
 
   "scripts": {
     "test": "karma test"

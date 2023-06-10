@@ -1,8 +1,49 @@
 {
+  "tnp": {
+    "resources": [],
+    "overrided": {
+      "linkedFolders": [],
+      "ignoreDepsPattern": [
+        "*"
+      ],
+      "includeAsDev": [],
+      "includeOnly": [],
+      "dependencies": {},
+      "npmFixes": []
+    },
+    "linkedProjects": [],
+    "smartContainerBuildTarget": "",
+    "linkedRepos": [],
+    "libReleaseOptions": {
+      "nodts": false,
+      "obscure": false,
+      "ugly": false,
+      "includeNodeModules": false
+    },
+    "smartContainerTarget": "",
+    "type": "isomorphic-lib",
+    "version": "v3",
+    "scripts": {
+      "test": "karma test"
+    },
+    "description": "Accordions component with animations for Angular 2 app (bootstrap3)",
+    "license": "MIT",
+    "author": "Dariusz Filipiak",
+    "homepage": "https://github.com/darekf77/ng2-accordions#readme",
+    "main": "index.js",
+    "keywords": [
+      "angular2",
+      "accordion",
+      "accordions",
+      "animated",
+      "bootstrap"
+    ],
+    "private": true,
+    "workerPlugins": {}
+  },
   "name": "ng2-accordions",
   "version": "1.0.23",
   "description": "Accordions component with animations for Angular 2 app (bootstrap3)",
-  "main": "index.js",
   "scripts": {
     "test": "karma test"
   },

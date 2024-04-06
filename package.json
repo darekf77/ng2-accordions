@@ -21,7 +21,8 @@
       "includeNodeModules": false,
       "cliBuildNoDts": false,
       "cliBuildObscure": false,
-      "cliBuildIncludeNodeModules": false
+      "cliBuildIncludeNodeModules": false,
+      "cliBuildUglify": false
     },
     "smartContainerTarget": "",
     "type": "isomorphic-lib",
@@ -300,5 +301,6 @@
   },
   "devDependencies": {},
   "private": true,
-  "lastBuildTagHash": "e2346b13d2ac6b517b2f4c5723245a2a60e91848"
+  "lastBuildTagHash": "e2346b13d2ac6b517b2f4c5723245a2a60e91848",
+  "main": "index.js"
 }

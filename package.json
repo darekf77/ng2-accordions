@@ -3,7 +3,7 @@
     "resources": []
   },
   "name": "ng2-accordions",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "description": "Accordions component with animations for Angular 2 app (bootstrap3)",
   "scripts": {
     "test": "karma test"
